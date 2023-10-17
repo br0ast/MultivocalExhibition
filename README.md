@@ -12,7 +12,7 @@ This repository contains the Multivocal Exhibition application.
 3. In the interface, select one concept from the list on the left
 4. In the interface, select up to three cultural contexts from the lists on the right
 5. Click the green button: "create exhibition"
-6. Enjoy the exhibition, you can walk between the rooms using "WASD" keys
+6. Once the exhibition is created, you can walk between the rooms using "WASD" keys
 7. To know more about artworks, click on the fake QR code next to them (if the artwork does not display, click on the QR to view the artwork in the original source)
 8. To close the exhibition, click on the EXIT button (it will close the program) at the end of the exibition (or press the esc key)
 ## Files
